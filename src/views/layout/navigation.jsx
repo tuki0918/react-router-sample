@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import { Link } from 'react-router'
 
 class Navigation extends React.Component {
@@ -16,4 +16,5 @@ class Navigation extends React.Component {
   }
 }
 
-module.exports = Navigation;
+export default Navigation
+

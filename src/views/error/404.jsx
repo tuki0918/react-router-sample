@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 class NotFound extends React.Component {
   render () {
@@ -10,4 +10,4 @@ class NotFound extends React.Component {
   }
 }
 
-module.exports = NotFound;
+export default NotFound

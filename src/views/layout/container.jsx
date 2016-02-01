@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 class Container extends React.Component {
   render () {
@@ -10,4 +10,4 @@ class Container extends React.Component {
   }
 }
 
-module.exports = Container;
+export default Container
